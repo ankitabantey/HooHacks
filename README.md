@@ -6,3 +6,6 @@ To build this web application we used React, HTML, Javascript backend, CSS, and 
 
 ## How To Run This App
 Download the code and run "npm start" in your terminal to play the game!
+
+
+![Screen Shot 2022-03-27 at 10 58 25 AM](https://user-images.githubusercontent.com/38222723/160289986-45ef07c1-1e55-45aa-83da-dba062ba6a26.png)
