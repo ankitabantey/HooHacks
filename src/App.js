@@ -4,6 +4,7 @@ import About from './components/About';
 import Play from './components/Play';
 import Score from './components/Score';
 import { BrowserRouter as Router, Link, Routes, Route} from 'react-router-dom';
+import './App.css';
 
 export default function App() {
   return (

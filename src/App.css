@@ -42,7 +42,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
-  background: linear-gradient(90deg, rgb(41, 230, 135) 12%, rgba(20,179,244,1) 61%, rgba(108,115,242,1) 91%);
+  background: linear-gradient(90deg, rgb(238, 115, 166) 12%, rgba(20,179,244,1) 61%, rgba(108,115,242,1) 91%);
   color: white;
 }
 
